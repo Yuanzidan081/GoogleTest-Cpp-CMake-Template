@@ -1,8 +1,9 @@
-This is a googleTest cmake template for C++ project, I use it in my windows platform.
+# GoogleTest-Cpp-CMake-Template
+This is a GoogleTest CMake template for C++ project, I use it in my windows platform.
 
 # How to use it
 
-1. add your test source files in the `function` folder, example:
+1. Add your test source files in the `function` folder, example:
 
 + `function/TestFunction.h`
 
