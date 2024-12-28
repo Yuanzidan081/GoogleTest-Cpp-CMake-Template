@@ -39,7 +39,6 @@ int sub(int a_, int b_)
 // add your test function header file
 #include "function/TestFunction.h"
 
-// Demonstrate some basic assertions.
 TEST(HelloTest, ADD)
 {
     EXPECT_EQ(5, add(2, 3));
